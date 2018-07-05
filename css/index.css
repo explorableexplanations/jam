@@ -1,0 +1,44 @@
+@font-face{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    src: url(Poppins-Light.ttf) format('truetype');
+}
+@font-face{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: bold;
+    src: url(Poppins-Bold.ttf) format('truetype');
+}
+
+body{
+    margin:0;
+    font-family: "Poppins";
+    font-size: 22px;
+}
+a{
+    color: #dd4040;
+}
+a:hover{
+    color: #ff6060;
+}
+
+#title{
+    text-align: center;
+    background: #111;
+    color: #fff;
+    overflow: hidden;
+}
+#title_video{
+    width: 711px;
+    height: 400px;
+    margin: 30px auto 5px auto;
+}
+#title_desc{
+    margin: 20px auto;
+}
+
+#info{
+    width:600px;
+    margin: 50px auto;
+}
