@@ -73,3 +73,16 @@ a:hover{
 #advice a{
     color: #aaa;
 }
+
+#submissions{
+    text-align:center;
+}
+#submissions li{
+    display:block;
+}
+#submissions li a{
+    color: #ff69b4;
+}
+#submissions li a:hover{
+    color: #ffadd6;
+}
